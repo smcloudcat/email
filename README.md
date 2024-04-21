@@ -1,37 +1,29 @@
 # 小猫咪邮件在线发送
 
 #### 介绍
-一款免登录发送邮件，后台可添加邮箱
+一款免登录发送邮件，后台可添加邮箱,前台可选择发送邮箱，无需数据库
 
 #### 软件架构
-软件架构说明
+网站数据采取本地保存，所以，使用前请给网站修改权限，否则很多功能将无法使用
 
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1. 上传服务器或者主机
+2. 登录后台，添加发送邮箱即可
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  强烈建议修改后台地址
+2.  后台地址：域名/admin.php 默认账号密码为admin/123456
+3.  网站数据采取本地保存，所以，使用前请给网站修改权限，否则很多功能将无法使用
 
 #### 参与贡献
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+云猫（lwcat.cn）
+
+项目地址https://gitee.com/ximami/email/
+
+演示站：https://lwcat.cn/email/
 
 
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
